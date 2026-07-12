@@ -70,15 +70,6 @@ Application will be available at:
 http://localhost:5173
 ```
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Login Page
-- Registration Page
-- Dashboard
-- Profile Management
-
 ## 🎯 Future Enhancements
 
 - Backend Integration
